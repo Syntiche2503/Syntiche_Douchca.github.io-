@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    background-image: url(images/berlin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+  header {
+    background: #b5d1da;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  .container {
+    padding: 20px;
+  }
+  .image {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    height: 500px;
+    
+
+  }
+  .image img {
+    max-width: 100%;
+    height:auto ;
+    border-radius:5px solid #ccc;
+    
+  }
+  .info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .info div {
+    flex: 1;
+    min-width: 300px;
+    background: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 50px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  h2{
+    color: red;
+    font-size: 30px;
+  }
+  p{
+    color: blue;
+  }
+  ul li {
+    color: blue;
+  }
+  button{
+   
+    margin-bottom: 20px;
+    border-color: blueviolet;
+    font-size: 20px;
+    cursor: pointer;
+    clear: both;
+}

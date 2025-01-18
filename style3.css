@@ -1,0 +1,22 @@
+img{
+    height: 400px;
+    width: 100%;
+}
+h1{
+    color: rebeccapurple;
+}
+p{
+    font-size: 20px;
+}
+body{
+   background-color: rgb(244, 224, 224);
+   padding: 0px;
+   margin: 0px;
+}
+button{
+    margin-left: 30%;
+    margin-bottom: 20px;
+    border-color: blueviolet;
+    font-size: 20px;
+    cursor: pointer;
+}
