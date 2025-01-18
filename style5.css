@@ -4,7 +4,7 @@ body{
     padding: 0px;
     box-sizing: border-box;
    
-   background-image: url(images/Paysage\ Égypte.jpg);
+   background-image: url(Paysage\ Égypte.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   
@@ -70,12 +70,12 @@ height: 100vh;
   box-shadow: 5px 5px 30px rgba(0,0,0,0.1);
 }
 .card[for="c1"]{
-  background-image: url(images/Sphinx\ 3.avif);
+  background-image: url(Sphinx\ 3.avif);
 }
 .card[for="c2"]{
-  background-image: url(images/bateau.avif);
+  background-image: url(bateau.avif);
 }.card[for="c3"]{
-  background-image: url(images/vallée.avif);
+  background-image: url(vallée.avif);
 }
 
 .row{
