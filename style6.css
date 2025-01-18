@@ -46,7 +46,7 @@
             clear: both;
         }
         body{
-           background-image: url(images/venise.jpg);
+           background-image: url(venise.jpg);
            background-size: cover;
            background-repeat: no-repeat;
         }
