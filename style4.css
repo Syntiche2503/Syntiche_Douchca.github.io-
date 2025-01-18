@@ -4,7 +4,7 @@ body{
     padding: 0px;
     box-sizing: border-box;
    
-    background-image: url(images/Burj.png);
+    background-image: url(Burj.png);
     background-repeat: no-repeat;
     background-size: cover;
   
@@ -66,12 +66,12 @@ p{
       box-shadow: 5px 5px 30px rgba(0,0,0,0.1);
   }
   .card[for="c1"]{
-      background-image: url(images/restaurant.png);
+      background-image: url(restaurant.png);
   }
   .card[for="c2"]{
-      background-image: url(images/fontaine.png);
+      background-image: url(fontaine.png);
   }.card[for="c3"]{
-      background-image: url(images/residence.png);
+      background-image: url(residence.png);
   }
  
   .row{
